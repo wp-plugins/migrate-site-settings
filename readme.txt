@@ -18,15 +18,8 @@ This plugin saves your Wordpress site preferences for import into another Wordpr
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use the administration area to import or export your site settings.
 
-== Frequently Asked Questions ==
-
-== Screenshots ==
-
 == Changelog ==
 
 = 0.1 =
 * This is the initial release. List of features TBA
 
-== Upgrade Notice ==
-
-== Arbitrary section ==
